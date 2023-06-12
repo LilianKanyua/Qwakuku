@@ -1,0 +1,150 @@
+*{
+    margin:0%;
+    box-sizing: border-box;
+    background-image: url(/images/back.jpg) ;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: 900;
+    /* opacity: 95%; */
+    /* position:absolute; */
+    /* top: 10%;
+  left: 20%;
+  z-index: 1; */
+    
+    
+    /* background-color: black; */
+}
+/* .main{
+ 
+} */
+
+
+#logo{
+    width:70px;
+    margin-top: 7%;
+    
+}
+nav {
+    /* background-color: #F34747; */
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    /* z-index: 99; */
+  }
+  
+  ul {
+    list-style-type: none;
+    /* float: right; */
+    margin-left: 10%;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    padding: 15px 20px;
+    transition: 0.5s;
+  }
+  
+  a {
+    color:#F34747;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 900;
+  }
+  
+  a:hover {
+    background-color:white;
+  }
+  
+  /* #logo {
+    width: 100px;
+    height: 50px;
+    float: left;
+    margin-right: 20px;
+  }
+   */
+  #home {
+    border-top-left-radius: 20px;
+  }
+  
+  #menu {
+    border-left: 1px solid white;
+  }
+  
+  #About {
+    border-left: 1px solid white;
+  }
+  
+  #sign {
+    border-left: 1px solid white;
+    
+  }
+  
+  #log {
+    border-top-right-radius: 20px;
+  }
+  
+/* nav{
+    margin-left: 4%;
+    
+}
+/* nav li a{
+    dis
+} */
+/* .navbar{
+    margin-top: 4%;
+    display: flex;
+    
+    /* justify-content: space-evenly; */
+/* } */ 
+/* #home,#contact,#about,#sign,#log{
+    padding: 0px 10px;
+    background-color: #F34747;
+    margin-left:5%;
+    border:solid #F34747 1px;
+    border-radius: 5px;
+} */
+/* .navbar button{
+    padding: 0 20px;
+    background-color:rgb(190, 19, 19);
+    border-radius: 5px;
+    border:solid #F34747 1px;
+    margin-left:7%;
+    color: white;
+
+} */
+/* .navbar ul li{
+    display: flex;
+} */
+
+#text{
+    color:#F34747;
+}
+.section_one{
+  margin-top: 29%;
+  margin-left: 20%;
+  font-size: 28px;
+  letter-spacing: 8px;
+  /* position:relative;  */
+ 
+}
+#image1{
+    width:60%;
+    height: 75%;
+    border-radius: 15px;
+    margin-left: 15%;
+}
+#explore{
+    padding: 10px 20px;
+    margin-left: 30%;
+    border: 1px solid #F34747;
+    background-color: #F34747;
+    border-radius: 5px;
+    color: black;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
